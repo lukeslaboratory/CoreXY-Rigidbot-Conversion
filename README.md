@@ -1,6 +1,6 @@
 # CoreXY-Rigidbot-Conversion
 
-Alright, here it is. This is essentially V0.9 for this part, I've been using it quite successfully for the past 6 months and feel that its stable enough to do whatever you need it to do reliably. Should just need to print off 1x of more/less everything, except for the braces.
+Alright, here it is. This is essentially V0.9 for this Kit, I've been using it quite successfully for the past 6 months and feel that its stable enough to do whatever you need it to do reliably. Should just need to print off 1x of more/less everything, except for the braces.
 
 ![alt text](Photos/Main.JPG "Logo Title Text 1")
 
